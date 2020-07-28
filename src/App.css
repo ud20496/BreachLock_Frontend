@@ -23,7 +23,17 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.DhtEg {
+  background: green;
+  border-radius: 20px;
+  color: white;
+}
 
+.DhtEg1 {
+  background: blue;
+  border-radius: 20px;
+  color: white;
+}
 .App-link {
   color: #61dafb;
 }
